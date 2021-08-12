@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1909997540",
+    "project_id": "steptracker-322507",
+    "storage_bucket": "steptracker-322507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1909997540:android:d82a7f6d052c4d1b8fd1f1",
+        "android_client_info": {
+          "package_name": "com.example.steptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1909997540-osf8ejnp7kltj9eiq7csgaaq6tfa4ta8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steptracker",
+            "certificate_hash": "47a60283868e85a8b39fdcca11b7f0e599382f7c"
+          }
+        },
+        {
+          "client_id": "1909997540-ed7os54jj9cch8j4muq3bv4opg82iori.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMshZsuraP3W0yqYYnd7fzi74tkSYexw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1909997540-ed7os54jj9cch8j4muq3bv4opg82iori.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
